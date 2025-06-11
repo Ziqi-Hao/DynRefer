@@ -9,6 +9,12 @@ Finetuning DynRefer on RefCOCOg (Pretrained by VG V1.2).
 bash scripts/train/finetune_refcocog.sh ckpts/vg1.2_5e.pth
 ```
 
+Training the GRPO view selector (requires a pretrained DynRefer checkpoint).
+```
+bash scripts/train/train_grpo.sh configs/train/vg/vg1.2_5e.yaml
+```
+
+
 
 ### 4.4 Evaluation
 Evaluating the dense captioning performance of DynRefer on VG V1.2 : (`mAP 47.6`).

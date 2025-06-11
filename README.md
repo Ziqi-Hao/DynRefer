@@ -51,7 +51,7 @@ Region-level multimodal methods can translate referred image regions to human pr
 - [**Dataset and Checkpoints**](./docs/data.md)
 
 - [**Training and Evaluation**](./docs/train_and_eval.md)
-
+- [**GRPO View Selector Training**](./docs/train_and_eval.md#43-training)
 ## 6. Contacts
 If you have any question about our work or this repository, please don't hesitate to contact us by emails or open an issue under this project.
 - [zhaoyuzhong20@mails.ucas.ac.cn](zhaoyuzhong20@mails.ucas.ac.cn)
